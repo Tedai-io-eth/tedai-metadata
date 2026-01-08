@@ -1,0 +1,17 @@
+{
+  "name": "TEDAI",
+  "symbol": "TEDAI",
+  "description": "TEDAI is a live meme token on Solana.\n\n🌐 Website: https://tedai.io\n🧸 X: https://twitter.com/TedAi_io\n💬 Discord: https://discord.gg/tedai\n📣 Telegram: https://t.me/tedai_io\n🎵 TikTok: https://www.tiktok.com/@ted.ai.io\n▶️ YouTube: https://www.youtube.com/@TedAI-io\n📸 Instagram: https://www.instagram.com/tedai.io/",
+  "image": "https://raw.githubusercontent.com/Tedai-io-eth/tedai-metadata/main/tedai.png",
+  "external_url": "https://tedai.io",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Tedai-io-eth/tedai-metadata/main/tedai.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
